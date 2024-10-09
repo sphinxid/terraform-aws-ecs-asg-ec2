@@ -1,0 +1,1 @@
+This is an simple example of using Terraform with AWS to create an ECS cluser with Auto Scaling Group (ALB) with Application Local Balancer (ALB) with default response of 200 and 2 routing path /service-nginx/* and /service-apache/*
